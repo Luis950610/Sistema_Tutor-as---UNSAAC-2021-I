@@ -1,0 +1,6 @@
+D:\Ayuda\STutoria\STutoria.BusinessObjects\bin\Release\SConsultorio.BusinessObjects.dll
+D:\Ayuda\STutoria\STutoria.BusinessObjects\bin\Release\SConsultorio.BusinessObjects.pdb
+D:\Ayuda\STutoria\STutoria.BusinessObjects\obj\Release\STutoria.BusinessObjects.csprojAssemblyReference.cache
+D:\Ayuda\STutoria\STutoria.BusinessObjects\obj\Release\STutoria.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Ayuda\STutoria\STutoria.BusinessObjects\obj\Release\SConsultorio.BusinessObjects.dll
+D:\Ayuda\STutoria\STutoria.BusinessObjects\obj\Release\SConsultorio.BusinessObjects.pdb

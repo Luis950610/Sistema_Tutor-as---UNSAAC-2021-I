@@ -1,0 +1,32 @@
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Facade\bin\Debug\SConsultorio.Facade.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Facade\bin\Debug\SConsultorio.Facade.pdb
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Facade\bin\Debug\SConsultorio.BusinessObjects.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Facade\bin\Debug\Sconsultorio.DataObjects.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Facade\bin\Debug\SConsultorio.Libreria.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Facade\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Facade\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Facade\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Facade\bin\Debug\SConsultorio.BusinessObjects.pdb
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Facade\bin\Debug\Sconsultorio.DataObjects.pdb
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Facade\bin\Debug\SConsultorio.Libreria.pdb
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Facade\obj\Debug\SConsultorio.Facade.csprojAssemblyReference.cache
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Facade\obj\Debug\SConsultorio.Facade.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Facade\obj\Debug\SConsultorio.Facade.csproj.CopyComplete
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Facade\obj\Debug\SConsultorio.Facade.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Facade\obj\Debug\SConsultorio.Facade.pdb
+D:\Proyectos Personales\SConsultorio\SConsultorio.Facade\bin\Debug\SConsultorio.Facade.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.Facade\bin\Debug\SConsultorio.Facade.pdb
+D:\Proyectos Personales\SConsultorio\SConsultorio.Facade\bin\Debug\SConsultorio.BusinessObjects.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.Facade\bin\Debug\Sconsultorio.DataObjects.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.Facade\bin\Debug\SConsultorio.Libreria.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.Facade\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.Facade\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.Facade\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.Facade\bin\Debug\SConsultorio.BusinessObjects.pdb
+D:\Proyectos Personales\SConsultorio\SConsultorio.Facade\bin\Debug\Sconsultorio.DataObjects.pdb
+D:\Proyectos Personales\SConsultorio\SConsultorio.Facade\bin\Debug\SConsultorio.Libreria.pdb
+D:\Proyectos Personales\SConsultorio\SConsultorio.Facade\obj\Debug\SConsultorio.Facade.csprojAssemblyReference.cache
+D:\Proyectos Personales\SConsultorio\SConsultorio.Facade\obj\Debug\SConsultorio.Facade.csproj.CoreCompileInputs.cache
+D:\Proyectos Personales\SConsultorio\SConsultorio.Facade\obj\Debug\SConsultorio.Facade.csproj.CopyComplete
+D:\Proyectos Personales\SConsultorio\SConsultorio.Facade\obj\Debug\SConsultorio.Facade.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.Facade\obj\Debug\SConsultorio.Facade.pdb

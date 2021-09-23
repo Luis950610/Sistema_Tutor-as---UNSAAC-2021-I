@@ -1,0 +1,306 @@
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.App.exe.config
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.App.exe
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.App.pdb
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.csprojAssemblyReference.cache
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.Properties.Resources.resources
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.csproj.GenerateResource.cache
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.exe
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.pdb
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.exe.licenses
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.csproj.CopyComplete
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.Login.resources
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.Mantenimiento.Usuario.resources
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.Padre.FormPadre.resources
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.BusinessObjects.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.Facade.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.Libreria.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\Sconsultorio.DataObjects.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.BusinessObjects.pdb
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.Facade.pdb
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.Libreria.pdb
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\Sconsultorio.DataObjects.pdb
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.App.exe.config
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.App.exe
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.App.pdb
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.BusinessObjects.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.Facade.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.Libreria.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\Sconsultorio.DataObjects.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.BusinessObjects.pdb
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.Facade.pdb
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.Libreria.pdb
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\Sconsultorio.DataObjects.pdb
+D:\VS Pro\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.csprojAssemblyReference.cache
+D:\VS Pro\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.Login.resources
+D:\VS Pro\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.Mantenimiento.Usuario.resources
+D:\VS Pro\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.Padre.FormPadre.resources
+D:\VS Pro\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.Properties.Resources.resources
+D:\VS Pro\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.csproj.GenerateResource.cache
+D:\VS Pro\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.csproj.CoreCompileInputs.cache
+D:\VS Pro\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.csproj.CopyComplete
+D:\VS Pro\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.exe
+D:\VS Pro\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.pdb
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Data.v17.1.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Data.v17.1.xml
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\VS Pro\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.exe.licenses
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.App.exe.config
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.App.exe
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.App.pdb
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Data.v17.1.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.BusinessObjects.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.Facade.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.Libreria.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\Sconsultorio.DataObjects.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Data.v17.1.xml
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.BusinessObjects.pdb
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.Facade.pdb
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\SConsultorio.Libreria.pdb
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\Sconsultorio.DataObjects.pdb
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.csprojAssemblyReference.cache
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.Login.resources
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.Mantenimiento.Usuario.resources
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.Padre.FormPadre.resources
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.Properties.Resources.resources
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.csproj.GenerateResource.cache
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.exe.licenses
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.csproj.CoreCompileInputs.cache
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.csproj.CopyComplete
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.exe
+D:\Proyectos Personales\SConsultorio\SConsultorio.App\obj\Debug\SConsultorio.App.pdb

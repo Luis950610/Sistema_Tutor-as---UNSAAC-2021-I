@@ -1,0 +1,5 @@
+D:\Ayuda\STutoria\STutoria.Libreria\bin\Debug\STutoria.Libreria.dll
+D:\Ayuda\STutoria\STutoria.Libreria\bin\Debug\STutoria.Libreria.pdb
+D:\Ayuda\STutoria\STutoria.Libreria\obj\Debug\STutoria.Libreria.csproj.CoreCompileInputs.cache
+D:\Ayuda\STutoria\STutoria.Libreria\obj\Debug\STutoria.Libreria.dll
+D:\Ayuda\STutoria\STutoria.Libreria\obj\Debug\STutoria.Libreria.pdb

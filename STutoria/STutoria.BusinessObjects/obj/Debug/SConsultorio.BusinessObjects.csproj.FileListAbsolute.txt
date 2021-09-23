@@ -1,0 +1,12 @@
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.BusinessObjects\bin\Debug\SConsultorio.BusinessObjects.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.BusinessObjects\bin\Debug\SConsultorio.BusinessObjects.pdb
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.BusinessObjects\obj\Debug\SConsultorio.BusinessObjects.csprojAssemblyReference.cache
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.BusinessObjects\obj\Debug\SConsultorio.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.BusinessObjects\obj\Debug\SConsultorio.BusinessObjects.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.BusinessObjects\obj\Debug\SConsultorio.BusinessObjects.pdb
+D:\Proyectos Personales\SConsultorio\SConsultorio.BusinessObjects\bin\Debug\SConsultorio.BusinessObjects.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.BusinessObjects\bin\Debug\SConsultorio.BusinessObjects.pdb
+D:\Proyectos Personales\SConsultorio\SConsultorio.BusinessObjects\obj\Debug\SConsultorio.BusinessObjects.csprojAssemblyReference.cache
+D:\Proyectos Personales\SConsultorio\SConsultorio.BusinessObjects\obj\Debug\SConsultorio.BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Proyectos Personales\SConsultorio\SConsultorio.BusinessObjects\obj\Debug\SConsultorio.BusinessObjects.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.BusinessObjects\obj\Debug\SConsultorio.BusinessObjects.pdb

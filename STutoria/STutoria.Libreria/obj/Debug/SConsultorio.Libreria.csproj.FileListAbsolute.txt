@@ -1,0 +1,17 @@
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Libreria\bin\Debug\SConsultorio.Libreria.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Libreria\bin\Debug\SConsultorio.Libreria.pdb
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Libreria\obj\Debug\SConsultorio.Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Libreria\obj\Debug\SConsultorio.Libreria.dll
+C:\Users\Deivid\source\repos\SConsultorio\SConsultorio.Libreria\obj\Debug\SConsultorio.Libreria.pdb
+D:\Proyectos Personales\SConsultorio\SConsultorio.Libreria\bin\Debug\SConsultorio.Libreria.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.Libreria\bin\Debug\SConsultorio.Libreria.pdb
+D:\Proyectos Personales\SConsultorio\SConsultorio.Libreria\obj\Debug\SConsultorio.Libreria.csprojAssemblyReference.cache
+D:\Proyectos Personales\SConsultorio\SConsultorio.Libreria\obj\Debug\SConsultorio.Libreria.csproj.CoreCompileInputs.cache
+D:\Proyectos Personales\SConsultorio\SConsultorio.Libreria\obj\Debug\SConsultorio.Libreria.dll
+D:\Proyectos Personales\SConsultorio\SConsultorio.Libreria\obj\Debug\SConsultorio.Libreria.pdb
+D:\Ayuda\SConsultorio\SConsultorio.Libreria\bin\Debug\SConsultorio.Libreria.dll
+D:\Ayuda\SConsultorio\SConsultorio.Libreria\bin\Debug\SConsultorio.Libreria.pdb
+D:\Ayuda\SConsultorio\SConsultorio.Libreria\obj\Debug\SConsultorio.Libreria.csprojAssemblyReference.cache
+D:\Ayuda\SConsultorio\SConsultorio.Libreria\obj\Debug\SConsultorio.Libreria.csproj.CoreCompileInputs.cache
+D:\Ayuda\SConsultorio\SConsultorio.Libreria\obj\Debug\SConsultorio.Libreria.dll
+D:\Ayuda\SConsultorio\SConsultorio.Libreria\obj\Debug\SConsultorio.Libreria.pdb
