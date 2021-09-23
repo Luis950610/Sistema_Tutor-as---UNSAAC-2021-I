@@ -21,6 +21,7 @@ Proyecto de fin de semestre para el curso de "Desarrollo de software I"
 - Base de Datos
 #### Autores:✒️
 
+
 - **Pérez Tomaylla Bruno** - GitHub Account - [Bruno130322](https://github.com/Bruno130322)
 - **Condori Ochoa Giovdey Abraham** - GitHub Account - [Giovdey](https://github.com/Giovdey)
 ## Empezamos... 🚀
