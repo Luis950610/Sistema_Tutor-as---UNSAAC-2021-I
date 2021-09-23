@@ -26,6 +26,7 @@ Proyecto de fin de semestre para el curso de "Desarrollo de software I"
 - **Maxdeo Lagos Kevin Rousbel** - GitHub Account - [maxdeo07](https://github.com/maxdeo07)
 - **Condori Ochoa Giovdey Abraham** - GitHub Account - [Giovdey](https://github.com/Giovdey)
 - **Huamani Surco Grober Albert** - GitHub Account - [Grober976](https://github.com/Grober976)
+- **Pumayalli Cusicuna Frank Edison** - GitHub Account - [frankpumacusi](https://github.com/frankpumacusi)
 ## Empezamos... 🚀
 
 ### Construido con... 🛠️
