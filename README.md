@@ -18,7 +18,7 @@ Proyecto de fin de semestre para el curso de "Desarrollo de software I"
 - Mocks
 - Pruebas de Integracion
 - Sistema de Tutorias
-
+- Base de Datos
 #### Autores:✒️
 
 - **Pérez Tomaylla Bruno** - GitHub Account - [Bruno130322](https://github.com/Bruno130322)
